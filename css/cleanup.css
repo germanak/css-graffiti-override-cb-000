@@ -1,5 +1,5 @@
 /* write your override styles here */
 #wall .tag-1,
-div[id="tag-2"]{
+div#wall #tag-2 {
   display: none;
 }
